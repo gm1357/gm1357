@@ -7,4 +7,15 @@
 <a href="https://stackoverflow.com/users/9012424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9012424" height="30" width="40" /></a>
 </p>
 
-![Metrics](/github-metrics.svg)
+<br/>
+
+<table>
+ <tr>
+  <td width="50%">
+    <img src="/github-metrics.svg"/ alt="Metrics">
+  </td>
+  <td width="50%">
+    <img src="/metrics.plugin.isocalendar.fullyear.svg"/ alt="Contributions calendar">
+  </td>
+ </tr>
+</table>
