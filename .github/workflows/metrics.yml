@@ -20,6 +20,8 @@ jobs:
           config_timezone: America/Sao_Paulo
   isometric-calendar:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
       contents: write
     steps:
