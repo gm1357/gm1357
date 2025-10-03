@@ -7,4 +7,4 @@
 <a href="https://stackoverflow.com/users/9012424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9012424" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gm1357&show_icons=true&locale=en" alt="gm1357" /></p>
+![Metrics](/github-metrics.svg)
